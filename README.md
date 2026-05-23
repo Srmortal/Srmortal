@@ -1,30 +1,48 @@
 ## Hi there 👋
 
-I'm **Youssef Mohamed Ali**, a Full-Stack Developer passionate about building mobile and web applications.
+I'm **Youssef Mohamed Ali**, a Software Engineer focused on **system design**, **scalable architecture**, and **clean code principles**.
 
-### 🔭 Currently Working On
-- Mobile development with **Kotlin** and **Flutter**
-- Backend services with **.NET** and **TypeScript**
-- Cloud-based solutions and APIs
+### 🔭 Engineering Philosophy
+- **Design-first approach** - Building systems that scale from day one
+- **Problem solver** - Breaking down complex problems into elegant solutions
+- **Code quality** - Emphasizing maintainability, testability, and performance
+- **Architecture patterns** - Leveraging SOLID principles, design patterns, and best practices
 
-### 🌱 Tech Stack
-- **Mobile**: Kotlin, Flutter, Dart
-- **Backend**: C#/.NET, TypeScript, Node.js
-- **Other**: C++, Python
+### 💡 Core Competencies
+- **System Architecture** - Designing scalable, distributed systems
+- **Backend Engineering** - Building robust APIs and microservices
+- **Mobile Architecture** - Clean architecture for Android/iOS applications
+- **Database Design** - Optimization, normalization, and query performance
+- **Software Design Patterns** - Factory, Observer, Repository, MVC/MVVM patterns
 
-### 👯 Featured Projects
-- [**ecommerce-app**](https://github.com/Srmortal/ecommerce-app) - Full-featured e-commerce mobile app (Kotlin)
-- [**fitnes-app**](https://github.com/Srmortal/fitnes-app) - Fitness tracking application (Kotlin)
-- [**home_rent**](https://github.com/Srmortal/home_rent) - Property rental platform (Flutter)
-- [**ecommerce-api**](https://github.com/Srmortal/ecommerce-api) - RESTful API backend (C#)
-- [**book-app**](https://github.com/Srmortal/book-app) - Book management application (Kotlin)
+### 🛠️ Tech Stack
+- **Languages**: Kotlin, Dart, C#, TypeScript, C++, Python
+- **Architecture**: REST APIs, Microservices, Clean Architecture, MVVM/MVC
+- **Frameworks**: .NET Core, Flutter, Android, Node.js
+- **Databases**: SQL Server, Firebase, MongoDB
+- **Tools**: Git, Docker, CI/CD principles
 
-### 💬 Ask Me About
-- Android development best practices
-- Full-stack application architecture
-- API design and backend optimization
+### 📚 Featured Projects
+- [**ecommerce-app**](https://github.com/Srmortal/ecommerce-app) - Clean Architecture, MVVM pattern, optimized data flow
+- [**fitnes-app**](https://github.com/Srmortal/fitnes-app) - Repository pattern, dependency injection, real-time data sync
+- [**home_rent**](https://github.com/Srmortal/home_rent) - Cross-platform architecture, state management (Dart)
+- [**ecommerce-api**](https://github.com/Srmortal/ecommerce-api) - RESTful design, scalable backend (.NET)
+- [**book-app**](https://github.com/Srmortal/book-app) - Data persistence strategies, offline-first architecture
 
-### 📫 How to Reach Me
+### 🎯 Engineering Interests
+- System design and architecture scalability
+- Performance optimization and profiling
+- Distributed systems and microservices
+- Cloud-native application development
+- Software engineering best practices and standards
+
+### 💬 Let's Discuss
+- Architecture decisions and trade-offs
+- Scalability challenges and solutions
+- Code design and refactoring strategies
+- Engineering culture and practices
+
+### 📫 Connect
 - **LinkedIn**: [Youssef Mohamed Ali Metwally](https://www.linkedin.com/in/youssef-mohamed-ali-metwally/)
 - **GitHub**: [@Srmortal](https://github.com/Srmortal)
 
